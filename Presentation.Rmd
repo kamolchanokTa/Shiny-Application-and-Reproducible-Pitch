@@ -31,3 +31,6 @@ ui.R, and Server.R Code in my github repository (https://github.com/kamolchanokT
 ## Galton Families Dataset
 
 The data used in the app comes from the GaltonFamilies dataset. 
+
+## Sample
+![Sample for display application](sample.png){width=50%}
